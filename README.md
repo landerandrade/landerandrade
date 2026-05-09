@@ -1,4 +1,4 @@
-## Olá, sou o Lander Andrade👋
+## Olá, sou Lander Andrade👋
 
   Dev Java com experiência em sistemas corporativos — APIs REST, integração de sistemas, bancos relacionais.
 
