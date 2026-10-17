@@ -21,5 +21,5 @@
 
   ### Em construção
 
-  🎓 **"Do Código ao Contrato"** — curso ao vivo de Java + Spring Boot, 9 semanas
-  Turma Fundadora abrindo em breve.
+  🎓 **"Do Código ao Contrato"** — curso ao vivo de Java + Spring Boot, 10 semanas
+  Turma Fundadora abrindo em andamento.
